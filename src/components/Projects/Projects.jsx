@@ -41,7 +41,7 @@ const Projects = () => {
       logo: cometchat,
       name: "Comet Chat",
       projectDesc:
-        "Comet Chat Company provides me Figma design I converted into react website.",
+        "Comet Chat Company provided me a comprehensive Figma design, which I successfully converted into a fully functional React website. ",
       videoUrl: "https://comet-chat-puce.vercel.app/",
       codeUrl: "https://github.com/AbdulRahamanskar/CometChat",
     },
